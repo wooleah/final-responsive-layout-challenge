@@ -1,7 +1,7 @@
 {
-  "name": "responsive-layout-practice",
+  "name": "final-layout-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Final challenge from Kevin Powell's conquering responsive layout course (https://courses.kevinpowell.co)\r - but with tailwindcss (https://tailwindcss.com/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
